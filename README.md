@@ -29,4 +29,4 @@ This project is a **Credit Score Prediction Program** built using **Python** and
 ## ⚙️ Installation
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/DhruvKIET/MSE1_Credit_Score_Prediction.git

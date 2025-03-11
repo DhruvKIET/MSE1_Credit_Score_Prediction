@@ -11,10 +11,6 @@ This project is a **Credit Score Prediction Program** built using **Python** and
 ## 📦 Table of Contents
 - [Features](#-features)
 - [Installation](#-installation)
-- [Usage](#-usage)
-- [Model Evaluation](#-model-evaluation)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
